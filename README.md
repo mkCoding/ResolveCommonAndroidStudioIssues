@@ -3,8 +3,7 @@
 
 # Issue 1: Incompatible Android Gradle Plugin (AGP) Version
 
-The project is using an incompatible version (**AGP 8.3.0**) of the Android Gradle Plugin.  
-The latest supported version is **AGP 8.2.1**.
+The project is using an incompatible version (**AGP 8.3.0**) of the Android Gradle Plugin.  The latest supported version is **AGP 8.2.1**.
 
 ## Resolution Options
 

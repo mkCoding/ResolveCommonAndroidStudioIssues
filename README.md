@@ -16,7 +16,7 @@ If you want to continue using your current Android Studio version, you can downg
    plugins {
        id(libs.plugins.android.application)
    }
-2. CMD + Click -> Takes you to libs.version.toml
+2. CMD + Click -> Takes you to **libs.version.toml**
 3. Find the **agp** version at the top
 4. Modify version to **AGP 8.2.1** (based on what ever the Latest supported version is in the error message)
 5. Sync Project
